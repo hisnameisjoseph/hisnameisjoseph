@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on building my own website
-- 🌱 I’m currently learning / upskilling on Leetcode, LinkedIn Learning - React, Typescript
+- 🌱 I’m currently learning / upskilling on Leetcode: [hisnameisjoseph](https://leetcode.com/u/hisnameisjoseph/), LinkedIn Learning - React, Typescript
 -  📫 How to reach me: Instagram: [hisnameisjoseph](https://www.instagram.com/hisnameisjoseph/), LinkedIn: [Joseph Jia-Han Ho](www.linkedin.com/in/joseph-jia-han-ho)
 - 😄 Pronouns: he / him
