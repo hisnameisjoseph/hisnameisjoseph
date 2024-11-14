@@ -1,19 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Joseph!
 
-<!--
-**hisnameisjoseph/hisnameisjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 About Me
+I'm a recent graduate from Australian National University with a background in Machine Learning, Economics, and a passion for software development. Currently, I'm focused on building a solid foundation in software engineering and continuously upskilling to stay ahead in tech.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On
+- Building my **personal website** to showcase my portfolio and ongoing projects.
+- Developing my skills through **LinkedIn Learning** with courses in **React**, **TypeScript**, and **AWS Foundations**.
 
+### 📈 My Progress
+- **LeetCode Practice**: Almost 100 questions completed so far! Follow my progress on LeetCode: [hisnameisjoseph](https://leetcode.com/u/hisnameisjoseph/)
+- **ICT Professional Year Program at Monash College**: Engaged in professional skill development every Saturday, focusing on transferable skills to boost employability.
+  
+### 🛠️ Technical Skills
+- **Languages**: Assembly, Java, Python, JavaScript, SQL and more
+- **Frameworks**: React.js, TypeScript (in progress)
+- **Other Skills**: Machine Learning (Intelligent Systems with foundations in Neural Network, Computer Vision, Natural Language Processing), Agile Methodologies, Project Management
 
-**- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on building my own website
-- 🌱 I’m currently learning / upskilling on Leetcode: [hisnameisjoseph](https://leetcode.com/u/hisnameisjoseph/), LinkedIn Learning - React, Typescript
--  📫 How to reach me: Instagram: [hisnameisjoseph](https://www.instagram.com/hisnameisjoseph/), LinkedIn: [Joseph Jia-Han Ho](www.linkedin.com/in/joseph-jia-han-ho)
-- 😄 Pronouns: he / him
+### 🌱 Currently Learning / Upskilling
+I'm dedicated to enhancing my technical skills and job readiness. You can see my progress here on GitHub and through my LinkedIn updates.
+
+### 📫 How to Reach Me
+- **Instagram**: [hisnameisjoseph](https://www.instagram.com/hisnameisjoseph/)
+- **LinkedIn**: [Joseph Jia-Han Ho](https://www.linkedin.com/in/joseph-jia-han-ho)
+
+### 😄 Pronouns
+he / him
