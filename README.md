@@ -17,14 +17,14 @@ I'm a recent graduate from Australian National University with a background in M
 - **Other Skills**: Machine Learning (Intelligent Systems with foundations in Neural Network, Computer Vision, Natural Language Processing), Agile Methodologies, Project Management
 
 ### 🌱 Currently Learning / Upskilling
-I'm dedicated to enhancing my technical skills and job readiness. You can see my progress here on GitHub and through my LinkedIn updates.
+- I'm dedicated to enhancing my technical skills and job readiness. You can see my progress here on GitHub and through my LinkedIn updates.
 
 ### 📫 How to Reach Me
 - **Instagram**: [hisnameisjoseph](https://www.instagram.com/hisnameisjoseph/)
 - **LinkedIn**: [Joseph Jia-Han Ho](https://www.linkedin.com/in/joseph-jia-han-ho)
 
 ### 😄 Pronouns
-he / him
+- he / him
 
 
 ## LeetCode Progress Tracker
