@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Joseph!
+# Hi there 👋 I'm Joseph!
 
 ### 🔍 About Me
 I'm a recent graduate from Australian National University with a background in Machine Learning, Economics, and a passion for software development. Currently, I'm focused on building a solid foundation in software engineering and continuously upskilling to stay ahead in tech.
@@ -25,3 +25,27 @@ I'm dedicated to enhancing my technical skills and job readiness. You can see my
 
 ### 😄 Pronouns
 he / him
+
+## LeetCode Progress Tracker
+
+## 📈 My Stats
+- **Total Questions Solved**: 101
+- **Easy**: 39
+- **Medium**: 57
+- **Hard**: 5
+
+## 🗓️ Monthly Progress
+| Month      | Questions Solved | Topics Focused                         |
+|------------|------------------|----------------------------------------|
+| August     | 8                | Arrays, Strings, Hashmap               |
+| September  | 34               | Sliding Window, Matrix, Two Pointers   |
+| October    | 37               | Intervals, Stack, Linked Lists, Trees  |
+| November   | 7                | DP, Bit Manipulation                   |
+
+## 🏆 Milestones
+- **Completed First 50 Questions**: 19th Sep 2024
+- **Completed 100 Questions**: 18 Nov 2024
+- **Complete 150 Questions**: Target Date - 18 Dec 2024
+
+## 🌟 Links
+- [My LeetCode Profile](https://leetcode.com/u/hisnameisjoseph/)
