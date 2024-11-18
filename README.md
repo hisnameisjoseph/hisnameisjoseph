@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Joseph!
 
 ### 🔍 About Me
-I'm a recent graduate from Australian National University with a background in Machine Learning, Economics, and a passion for software development. Currently, I'm focused on building a solid foundation in software engineering and continuously upskilling to stay ahead in tech.
+I'm a recent graduate from Australian National University with a background in Machine Learning, Economics, and a passion for tech. Currently, I'm focused on building a solid foundation in software engineering and continuously upskilling to stay ahead in tech.
 
 ### 🚀 What I'm Working On
 - Building my **personal website** to showcase my portfolio and ongoing projects.
