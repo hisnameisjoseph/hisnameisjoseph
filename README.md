@@ -8,12 +8,12 @@ I'm a recent graduate from Australian National University with a background in M
 - Developing my skills through **LinkedIn Learning** with courses in **React**, **TypeScript**, and **AWS Foundations**.
 
 ### 📈 My Progress
-- **LeetCode Practice**: 101 questions completed so far! Follow my progress on LeetCode: [hisnameisjoseph](https://leetcode.com/u/hisnameisjoseph/)
+- **LeetCode Practice**: **101 questions** completed so far! Follow my progress on LeetCode: [hisnameisjoseph](https://leetcode.com/u/hisnameisjoseph/)
 - **ICT Professional Year Program at Monash College**: Engaged in professional skill development every Saturday, focusing on transferable skills to boost employability.
   
 ### 🛠️ Technical Skills
-- **Languages**: Assembly, Java, Python, JavaScript, SQL and more
-- **Frameworks**: React.js, TypeScript (in progress)
+- **Languages**: Assembly, **Java**, **Python**, JavaScript, **SQL**, Haskell and more
+- **Frameworks**: Node.js, React.js, TypeScript (in progress)
 - **Other Skills**: Machine Learning (Intelligent Systems with foundations in Neural Network, Computer Vision, Natural Language Processing), Agile Methodologies, Project Management
 
 ### 🌱 Currently Learning / Upskilling
@@ -26,15 +26,16 @@ I'm dedicated to enhancing my technical skills and job readiness. You can see my
 ### 😄 Pronouns
 he / him
 
+
 ## LeetCode Progress Tracker
 
-## 📈 My Stats
+### 📈 My Stats
 - **Total Questions Solved**: 101
 - **Easy**: 39
 - **Medium**: 57
 - **Hard**: 5
 
-## 🗓️ Monthly Progress
+### 🗓️ Monthly Progress
 | Month      | Questions Solved | Topics Focused                         |
 |------------|------------------|----------------------------------------|
 | August     | 8                | Arrays, Strings, Hashmap               |
@@ -42,7 +43,7 @@ he / him
 | October    | 37               | Intervals, Stack, Linked Lists, Trees  |
 | November   | 7                | DP, Bit Manipulation                   |
 
-## 🏆 Milestones
+### 🏆 Milestones
 - **Completed First 50 Questions**: 19th Sep 2024
 - **Completed 100 Questions**: 18 Nov 2024
-- **Complete 150 Questions**: Target Date - 18 Dec 2024
+- **Complete 150 Questions**: Target Date - 22 Dec 2024
