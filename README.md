@@ -46,6 +46,3 @@ he / him
 - **Completed First 50 Questions**: 19th Sep 2024
 - **Completed 100 Questions**: 18 Nov 2024
 - **Complete 150 Questions**: Target Date - 18 Dec 2024
-
-## 🌟 Links
-- [My LeetCode Profile](https://leetcode.com/u/hisnameisjoseph/)
