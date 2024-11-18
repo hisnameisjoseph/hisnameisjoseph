@@ -8,7 +8,7 @@ I'm a recent graduate from Australian National University with a background in M
 - Developing my skills through **LinkedIn Learning** with courses in **React**, **TypeScript**, and **AWS Foundations**.
 
 ### 📈 My Progress
-- **LeetCode Practice**: Almost 100 questions completed so far! Follow my progress on LeetCode: [hisnameisjoseph](https://leetcode.com/u/hisnameisjoseph/)
+- **LeetCode Practice**: 101 questions completed so far! Follow my progress on LeetCode: [hisnameisjoseph](https://leetcode.com/u/hisnameisjoseph/)
 - **ICT Professional Year Program at Monash College**: Engaged in professional skill development every Saturday, focusing on transferable skills to boost employability.
   
 ### 🛠️ Technical Skills
