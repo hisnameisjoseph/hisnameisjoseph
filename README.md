@@ -30,9 +30,9 @@ I'm a recent graduate from Australian National University with a background in M
 ## LeetCode Progress Tracker
 
 ### 📈 My Stats
-- **Total Questions Solved**: 101
-- **Easy**: 39
-- **Medium**: 57
+- **Total Questions Solved**: 107
+- **Easy**: 43
+- **Medium**: 59
 - **Hard**: 5
 
 ### 🗓️ Monthly Progress
@@ -45,5 +45,5 @@ I'm a recent graduate from Australian National University with a background in M
 
 ### 🏆 Milestones
 - **Completed First 50 Questions**: 19th Sep 2024
-- **Completed 100 Questions**: 18 Nov 2024
-- **Complete 150 Questions**: Target Date - 22 Dec 2024
+- **Completed 100 Questions**: 18th Nov 2024
+- **Complete 150 Questions**: Target Date - 31st Jan 2025
