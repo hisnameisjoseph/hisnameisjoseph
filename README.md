@@ -6,7 +6,7 @@ I'm a recent graduate from **Australian National University** with a background 
 ### 🚀 What I'm Working On
 - Enhancing my GitHub with personal projects and algorithmic problem-solving.
 - Developing my skills through **LinkedIn Learning** with courses in **TypeScript**, **DevOps** and **AWS Services**.
-- ~~[**Training for the Canberra Marathon (April 2025)**](https://www.strava.com/athletes/52703157) while balancing tech learning.~~ (JUST COMPLETED, still deciding where to go for my next long run)
+- ~~[**Training for the Canberra Marathon (April 2025)**](https://www.strava.com/athletes/52703157) while balancing tech learning.~~ (JUST COMPLETED, still deciding where to go for my next long race)
 
 ### 📈 My Progress
 - [**AWS Certified Cloud Practitioner**](https://cp.certmetrics.com/amazon/en/public/verify/credential/006989f2a9af447fbadd0a593d9a63c3) (Attained in March 2025) & working towards **AWS Certified AI Practitioner**.
