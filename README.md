@@ -1,76 +1,109 @@
 # 👋 Hi, I'm Joseph
 
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=flat-square&logo=amazon-aws)
-[![Strava](https://img.shields.io/badge/Strava-Follow%20My%20Runs-orange?style=flat-square&logo=strava)](https://www.strava.com/athletes/52703157)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hisnameisjoseph)
-[![LeetCode](https://img.shields.io/badge/LeetCode-hisnameisjoseph-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/u/hisnameisjoseph/)
+[![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/57b812ed-9f06-4272-909b-040c6547f57e/public_url)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f3270f01-f742-42e7-9d81-3770ea26c2cd/public_url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisnameisjoseph)
+[![LeetCode](https://img.shields.io/badge/LeetCode-110%2B-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hisnameisjoseph/)
+[![Strava](https://img.shields.io/badge/Strava-Running-orange?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/52703157)
 
 ---
+## 🔍 About Me
 
-### 🔍 About Me
-I'm an **Australian National University** graduate with a double degree in **Advanced Computing (Honours)** and **Commerce**, majoring in **Economics** and specialising in **Machine Learning**.  
+Graduate Software Developer open to **junior / entry-level roles** (full-stack, frontend, backend — I'm flexible and eager to learn on the job).
 
-I'm passionate about **software engineering**, **cloud technologies**, and **building solutions that make an impact**.  
-Having completed my internship as a **Backend Developer** at **FocusBear**, I'm now preparing for the **AWS Certified Developer – Associate** exam and actively seeking **graduate opportunities** where I can deepen my technical skills.
+Hands-on experience building & debugging production APIs with **NestJS, TypeScript, Node.js, Docker, SQL, PostgreSQL, and AWS** from my internship at FocusBear.
 
----
+Recently certified **AWS Developer – Associate (DVA-C02, March 2026)** — strong in developing, deploying, and troubleshooting cloud-native apps.
 
-### 🚀 What I'm Working On
-- **AWS Certification** → earned [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f3270f01-f742-42e7-9d81-3770ea26c2cd/public_url) ✅ and currently preparing for **AWS Certified Developer – Associate** *(target: mid-Oct 2025)*.
-- **Job Search** → pursuing **graduate software engineering** and **junior backend developer** roles, open to exploring **cloud**, **DevOps**, and **full-stack** opportunities.
-- **AU Permanent Residency Prep** → completing **Professional Year Program** (Monash College), finalising **PTE Superior English** *(target: mid-Sep 2025)*, and working towards **skills assessment & EOI submission** *(target: late Oct 2025)*.
-- **Personal Projects** → uploading backend-focused personal projects soon.
+ANU double degree: **Advanced Computing (Honours) – Machine Learning** + **Commerce – Economics**. Client-facing Honours project for **Canberra Health Services** built my skills in leadership, stakeholder communication, UI design, and on-time delivery.
+
+Actively seeking opportunities in Melbourne where I can contribute, grow, and learn across the stack.
 
 ---
+## 🏅 Certifications
 
-### 📈 My Progress & Goals
-- **AWS Cloud** → AWS CLF-C02 Cloud Practitioner certified ✅, aiming for **AWS Associate Developer** by **mid-Oct 2025**
-- **Graduate Job Search** → Open to **software engineering**, **cloud**, and **backend** opportunities
-- **LeetCode** → **110+ problems solved**  [→ View my profile](https://leetcode.com/u/hisnameisjoseph/)
+- 🟧 **AWS Certified Developer – Associate (DVA-C02)** — March 2026  
+  https://www.credly.com/badges/57b812ed-9f06-4272-909b-040c6547f57e/public_url
 
-> 🎯 **Goal**: Land a **graduate role** or **junior backend position** by **early 2026**, while continuing to grow my skillset.
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — March 2025  
+  https://www.credly.com/badges/f3270f01-f742-42e7-9d81-3770ea26c2cd/public_url
 
 ---
+## 🚀 What I'm Working On
 
-### 🛠️ Technical Skills
+- 🔍 **Job Search** — junior / entry-level software developer roles (open to full-stack, front-end, backend)  
+- 🌐 **Front-End Learning** — React + modern web app development (Udemy course in progress) to round out full-stack understanding  
+- 💻 **LeetCode** — 110+ problems solved (building strong DSA foundation)  
+- 🛠️ **Personal Projects** → Starting soon! (see below)
+
+---
+## 📈 Progress & Goals
+
+- **Cloud**: AWS Developer Associate & Cloud Practitioner certified (hands-on with Lambda, API Gateway, DynamoDB, RDS, S3, CloudWatch)  
+- **Backend**: Production REST APIs, live debugging, TypeORM, Docker, CI/CD basics  
+- **Front-End**: Building React skills now — aiming for responsive UIs + state management  
+- **Algorithms**: Consistent LeetCode → [leetcode.com/u/hisnameisjoseph](https://leetcode.com/u/hisnameisjoseph/)  
+- **Goal**: Land a junior developer role in 2026 where I can ship features, learn best practices, and grow across front-end / back-end / cloud
+
+---
+## 🛠️ Technical Skills
 
 **Languages**  
-Python • Java • TypeScript • JavaScript • SQL • Assembly • Haskell  
+Python (Pandas, NumPy, Scikit-learn) • Java • TypeScript • JavaScript • SQL
 
-**Frameworks & Tools**  
-NestJS • React • Docker • TypeORM • Jest • GitHub Actions  
+**Frontend**  
+React (learning in progress, experience from Honours project) • HTML/CSS/JS basics • UI design (from Honours project)
 
-**Cloud & Databases**  
-AWS (Cloud Practitioner Certified) • PostgreSQL • Database Schema Design & Management  
+**Backend & Tools**  
+NestJS • Node.js • TypeORM • Docker • Jest • Git • GitHub Actions • Jira
 
-**Other Skills**  
-Data Structures & Algorithms • Backend Integration • RESTful API Development • Agile & Project Management
+**Cloud & Infrastructure**  
+AWS (Lambda, API Gateway, DynamoDB, RDS, S3, CloudWatch) • PostgreSQL • CI/CD pipelines • Production debugging
 
----
-
-### 🌱 Currently Learning
-- Preparing for **AWS Certified Developer – Associate** *(exam target: mid-Oct 2025)*  
-- Improving **algorithmic thinking** via **LeetCode**  
-- Finalising **PTE Superior English** *(target: mid-Sep 2025)*  
-- Actively **job hunting** for roles that challenge me and allow me to learn continuously
+**Practices**  
+Agile • RESTful APIs • Authentication • Database design • Technical documentation • Team collaboration
 
 ---
+## 🌱 Currently Learning
 
-### 🏃 Outside of Tech
-- Completed the **Canberra Marathon (Apr 2025)** 🎉
-- Running the **Brighton Half Marathon (Aug 2025)** 🏅  
-- Follow my training & races on [**Strava**](https://www.strava.com/athletes/52703157) 🚀
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Ho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hisnameisjoseph)
-[![LeetCode](https://img.shields.io/badge/LeetCode-hisnameisjoseph-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/hisnameisjoseph/)
-[![Strava](https://img.shields.io/badge/Strava-Follow%20My%20Runs-orange?style=flat&logo=strava)](https://www.strava.com/athletes/52703157)
+- React fundamentals + modern web development patterns (Udemy)  
+- Building responsive, user-friendly front-ends  
+- Connecting front-end to back-end APIs (full-stack flow)  
+- Planning first personal projects to apply everything
 
 ---
+## 🛠️ Personal Projects (Coming Soon)
 
+No deployed projects yet — but I'm actively building momentum:  
+- Completing a Web application Udemy course to solidify front-end skills  
+- Reviewing AWS concepts for implementation in my personal projects
+These projects will showcase end-to-end development: UI, state, APIs, auth, database, deployment, and testing.
+
+---
+## 🏃 Outside of Tech
+
+Completed full marathons (42km to be exact):  
+- Bangkok (Nov 2025) 🚀  
+- Canberra (Apr 2025) 🎉  
+
+Half: Brighton Beach (Aug 2025) 🏅  
+
+Follow my runs and other sport activities: [Strava](https://www.strava.com/athletes/52703157)
+
+---
+## 🌐 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/hisnameisjoseph)  
+- [LeetCode](https://leetcode.com/u/hisnameisjoseph/)  
+- [Instagram](https://www.instagram.com/hisnameisjoseph/)  
+- [Strava](https://www.strava.com/athletes/52703157)
+
+---
 ## 📌 About This Page
-This README doubles as:
-- **Accountability Tracker** → certifications, problem-solving, and personal projects
-- **Snapshot** → for recruiters and collaborators to see my skills, progress, and focus areas at a glance
+
+Live snapshot for recruiters:  
+- Recent certs, internship experience, and client-facing project  
+- Current learning & job search focus  
+- Growth mindset: open to any stack where I can contribute and learn  
+
+**→ Pinning upcoming projects below once deployed!** (React apps, full-stack prototypes, AWS integrations)
