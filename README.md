@@ -21,12 +21,14 @@ Actively seeking opportunities in Melbourne where I can contribute, grow, and le
 
 ---
 ## 🏅 Certifications
+- ☁️ **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-gb/users/hisnameisjoseph/credentials/a495356ae44b2865?ref=https%3A%2F%2Fwww.linkedin.com%2F)** — April 2026  
+  
 
-- 🟧 **AWS Certified Developer – Associate (DVA-C02)** — March 2026  
-  https://www.credly.com/badges/57b812ed-9f06-4272-909b-040c6547f57e/public_url
+- ☁️ **[AWS Certified Developer – Associate (DVA-C02)](https://www.credly.com/badges/57b812ed-9f06-4272-909b-040c6547f57e/public_url)** — March 2026  
+  
 
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — March 2025  
-  https://www.credly.com/badges/f3270f01-f742-42e7-9d81-3770ea26c2cd/public_url
+- ☁️ **[AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/f3270f01-f742-42e7-9d81-3770ea26c2cd/public_url)** — March 2025  
+  
 
 ---
 ## 🚀 What I'm Working On
