@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joseph
 
-**Graduate Software Developer** | Open to **Junior / Entry-Level** roles (Backend • Full-Stack • Frontend) in Melbourne
+**Junior Software Developer** | Open to **Graduate / Entry-Level** roles (Backend • Full-Stack • Frontend) in Australia.
 
 [![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/57b812ed-9f06-4272-909b-040c6547f57e/public_url) 
 [![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-gb/users/hisnameisjoseph/credentials/a495356ae44b2865)
@@ -62,7 +62,11 @@ Completed full marathons (42km to be exact):
 - Bangkok (Nov 2025) 🚀  
 - Canberra (Apr 2025) 🎉  
 
-Half: Brighton Beach (Aug 2025) 🏅  
+Half: 
+- Brighton Beach (Aug 2025) 🏅
+- Asics Run Melbourne (Jul 2026)
+- Nike Melbourne (Oct 2026)
+
 
 Follow my runs and other sport activities: [Strava](https://www.strava.com/athletes/52703157)
 
